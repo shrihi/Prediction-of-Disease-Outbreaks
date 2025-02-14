@@ -52,7 +52,7 @@ This project is an AI-driven disease prediction model that utilizes machine lear
 This project is open-source and available under the MIT License.
 
 ## Contributors
-- **Your Name** - Developer
+- **Hitashri M** - Developer
 
 ## Acknowledgments
 Special thanks to **TechSaksham** and my mentor **Aditya Prashant Ardak** for their valuable guidance and support throughout this project.
